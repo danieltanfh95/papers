@@ -14,3 +14,17 @@ Each file is a mirror. The canonical archive for every paper is on Zenodo under 
 ## Not the citation URL
 
 Cite the Zenodo DOI, not the GitHub Pages URL. This repo may move, the DOI will not.
+
+## scripts/paper-to-blog.py
+
+Converts a pandoc-markdown paper (`draft.md` + `refs.bib` + numeric-brackets CSL) into KaTeX-friendly HTML suitable for the omg.lol blog. Handles `\begin{equation}`/`\eqref`/`\hyperref`/`\phantomsection`/`\label`, resolves citations against the BibTeX file, and emits anchor-style cite tags matching the blog's convention. Usage:
+
+```sh
+python3 scripts/paper-to-blog.py \
+  --draft /path/to/draft.md \
+  --bib   /path/to/refs.bib \
+  --csl   /path/to/numeric-brackets.csl \
+  > body.html
+```
+
+Then prepend a paper-landing header (title, series badge, metadata block, abstract) and POST to `/weblog/entry/<id>`.
