@@ -6,10 +6,16 @@ Each file is a mirror. The canonical archive for every paper is on Zenodo under 
 
 ## Index
 
-| Slug | Title | DOI | Series |
+| Slug | Title | DOI / venue | Series |
 |---|---|---|---|
-| `qft-observer-elimination.pdf` | Observers in quantum field theory cannot be fundamental excitations | [10.5281/zenodo.21672643](https://doi.org/10.5281/zenodo.21672643) | Quantum Observers, Paper 1 of 3 |
-| `classical-prejudice-in-quantum-gravity.pdf` | Classical Prejudice in Quantum Gravity | GRF 2027 submission (DOI pending decision) | &mdash; |
+| `qft-observer-elimination.pdf` | Observers in quantum field theory cannot be fundamental excitations | IJQF 2026 &middot; [10.5281/zenodo.21672643](https://doi.org/10.5281/zenodo.21672643) | Quantum Observers, 1 of 3 |
+| `qft-observer-mechanism.pdf` | Fermionic Matter Currents as the QFT Observer Mechanism | Quantum Reports 2026 &middot; [10.3390/quantum8040106](https://doi.org/10.3390/quantum8040106) &middot; [10.5281/zenodo.21900457](https://doi.org/10.5281/zenodo.21900457) | Quantum Observers, 2 of 3 |
+| `qft-observer-updating.pdf` | Observer belief updating from strand-local flux restriction | Drafting | Quantum Observers, 3 of 3 |
+| `master-equation.pdf` | Spacetime as a Functional of Matter | SHPS (under review) | Wave Relativity, 1 of 3 |
+| `classical-prejudice-in-quantum-gravity.pdf` | Classical Prejudice in Quantum Gravity | GRF 2027 submission (DOI pending) | Wave Relativity, 2 of 3 |
+| `grf-essay-gravity-always-quantum.pdf` | Gravity has always been quantum mechanical | Zenodo v1.2 &middot; [10.5281/zenodo.21193435](https://doi.org/10.5281/zenodo.21193435) | Wave Relativity, 3 of 3 |
+| `matter-wave-internal-structure.pdf` | Matter-wave internal structure selects U(1)xSU(2)xSU(3) | Drafting, IJMPA target | Matter-Wave Field, 1 of 2 |
+| `capacity-fragility-indicator.pdf` | Capacity Fragility Indicator | Drafting | People as Foundation, 1 of &hellip; |
 
 ## Not the citation URL
 
