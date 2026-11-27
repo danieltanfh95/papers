@@ -9,6 +9,7 @@ Each file is a mirror. The canonical archive for every paper is on Zenodo under 
 | Slug | Title | DOI | Series |
 |---|---|---|---|
 | `qft-observer-elimination.pdf` | Observers in quantum field theory cannot be fundamental excitations | [10.5281/zenodo.21672643](https://doi.org/10.5281/zenodo.21672643) | Quantum Observers, Paper 1 of 3 |
+| `classical-prejudice-in-quantum-gravity.pdf` | Classical Prejudice in Quantum Gravity | GRF 2027 submission (DOI pending decision) | &mdash; |
 
 ## Not the citation URL
 
